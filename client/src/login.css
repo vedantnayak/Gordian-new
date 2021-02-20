@@ -1,0 +1,49 @@
+.login {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login label{
+  color: white;
+  align: left;
+}
+.login img{
+  color: white;
+  height: 200px;
+  width: 275px;
+  z-index: 2;
+}
+html{
+  height: 100%;
+}
+body{
+  background-image: url('C:\Users\VN\Desktop\gordian\client\src\assets\img4.jpg'); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  z-index: 0;
+}
+.menu img{
+  color: white;
+  height: 200px;
+  width: 275px;
+  z-index: 2;
+}
+.menu {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.menu label{
+  color: white;
+  align: left;
+}
+#a{
+  color: white;
+}
+#t1{
+  color: white;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gordian-new-project_upload/static/css/main.32e99e27.chunk.css",
+    "main.js": "/gordian-new-project_upload/static/js/main.5bcf9951.chunk.js",
+    "main.js.map": "/gordian-new-project_upload/static/js/main.5bcf9951.chunk.js.map",
+    "runtime-main.js": "/gordian-new-project_upload/static/js/runtime-main.967e6ad8.js",
+    "runtime-main.js.map": "/gordian-new-project_upload/static/js/runtime-main.967e6ad8.js.map",
+    "static/js/2.ed16f19a.chunk.js": "/gordian-new-project_upload/static/js/2.ed16f19a.chunk.js",
+    "static/js/2.ed16f19a.chunk.js.map": "/gordian-new-project_upload/static/js/2.ed16f19a.chunk.js.map",
+    "index.html": "/gordian-new-project_upload/index.html",
+    "static/css/main.32e99e27.chunk.css.map": "/gordian-new-project_upload/static/css/main.32e99e27.chunk.css.map",
+    "static/js/2.ed16f19a.chunk.js.LICENSE.txt": "/gordian-new-project_upload/static/js/2.ed16f19a.chunk.js.LICENSE.txt",
+    "static/media/capture.8b0813a2.PNG": "/gordian-new-project_upload/static/media/capture.8b0813a2.PNG",
+    "static/media/login.css": "/gordian-new-project_upload/static/media/img4.84444b3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.967e6ad8.js",
+    "static/js/2.ed16f19a.chunk.js",
+    "static/css/main.32e99e27.chunk.css",
+    "static/js/main.5bcf9951.chunk.js"
+  ]
+}
